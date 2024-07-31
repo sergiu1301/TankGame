@@ -63,10 +63,15 @@
 ## Screenshots
 
 ### Main Menu
-![Main Menu](https://via.placeholder.com/800x600.png?text=Main+Menu)
-
-### Gameplay
-![Gameplay](https://via.placeholder.com/800x600.png?text=Gameplay)
+![Main Menu](Images/GameLevels.png)
 
 ### Scoreboard
-![Scoreboard](https://via.placeholder.com/800x600.png?text=Scoreboard)
+![Main Menu](Images/GameBoard.png)
+
+### Gameplay
+![Gameplay 1](Images/GamePlay1.png)
+![Gameplay 2](Images/GamePlay2.png)
+![Gameplay 3](Images/GamePlay3.png)
+
+### Game Over
+![Scoreboard](Images/GameOver.png)
