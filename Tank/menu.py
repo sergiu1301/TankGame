@@ -8,6 +8,7 @@ class Menu:
         self.levels = levels
         self.selected_level = 0
         self.game = game
+        self.background = pygame.image.load('Characters/Background.png').convert()
 
         self.font = pygame.font.Font(None, 74)
         self.title_text = self.font.render("Tank Game", True, (255, 255, 255))
@@ -23,7 +24,7 @@ class Menu:
 
     def run(self):
         while True:
-            self.screen.fill((0, 0, 0))
+            self.screen.blit(self.background, (0, 0))
             self.screen.blit(self.title_text, self.title_text.get_rect(center=(self.screen.get_width() // 2, 50)))
 
             mouse_pos = pygame.mouse.get_pos()
@@ -56,7 +57,7 @@ class Menu:
     def show_scores(self):
         scores = self.game.load_scores()
         font = pygame.font.Font(None, 36)
-        self.screen.fill((0, 0, 0))
+        self.screen.blit(self.background, (0, 0))
         self.screen.blit(self.title_text, self.title_text.get_rect(center=(self.screen.get_width() // 2, 50)))
 
         y_offset = 150
