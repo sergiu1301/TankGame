@@ -77,4 +77,5 @@
 
 
 ### Game Over
-![Scoreboard](Images/GameOver.png)
+![Scoreboard](https://github.com/user-attachments/assets/d5753cc0-9103-40b5-ab48-413aa917bb1e)
+
