@@ -62,15 +62,19 @@
 ## Screenshots
 
 ### Main Menu
-![Main Menu](Images/GameLevels.png)
+![Main Menu](https://github.com/user-attachments/assets/14ca6de1-17ef-49d9-8453-abb88c426fd9)
+
+
 
 ### Scoreboard
-![Main Menu](Images/GameBoard.png)
+![Main Menu](https://github.com/user-attachments/assets/703c1f0a-b124-447b-89bd-ae8bb1e00690)
+
 
 ### Gameplay
-![Gameplay 1](Images/GamePlay1.png)
-![Gameplay 2](Images/GamePlay2.png)
-![Gameplay 3](Images/GamePlay3.png)
+![Gameplay 1](https://github.com/user-attachments/assets/437a01f5-760c-4388-88de-3139f0152ce6)
+![Gameplay 2](https://github.com/user-attachments/assets/d0764115-0946-47f7-b247-1d4a681aff0d)
+![Gameplay 3](https://github.com/user-attachments/assets/d3843481-42c7-463d-84d9-4d5a663eef10)
+
 
 ### Game Over
 ![Scoreboard](Images/GameOver.png)
